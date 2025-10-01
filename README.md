@@ -41,4 +41,4 @@ This project demonstrates **linear interpolation of points inside triangles** to
 ## Running the Project ▶️
 1. Clone the repository:  
 ```bash
-git clone <repository_url>
+git clone <[repository_url](https://github.com/ruipedrogil/Computer-Graphics-1st-Project.git)>
