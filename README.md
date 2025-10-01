@@ -35,9 +35,25 @@ This project demonstrates **linear interpolation of points inside triangles** to
 
 ## Screenshots 📸
 
-![Pentagon with Interpolated Triangles](images/interpolation.png)
-![Pentagon lines](images/lines.png)
-![Vertices of the Pentagon with Interpolated Triangles](images/points.png)
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+  <div>
+    <img src="images/lines.png" alt="Pentagon" width="400" height="400">
+    <p style="text-align: center;">Pentagon</p>
+  </div>
+
+  <div>
+    <img src="images/interpolation.png" alt="Interpolation" width="400" height="400">
+    <p style="text-align: center;">Interpolated Triangles</p>
+  </div>
+
+  <div>
+    <img src="images/points.png" alt="Colored Points" width="400" height="400">
+    <p style="text-align: center;">Colored Points Example</p>
+  </div>
+
+</div>
 
 ---
 
