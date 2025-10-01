@@ -34,7 +34,10 @@ This project demonstrates **linear interpolation of points inside triangles** to
 ---
 
 ## Screenshots 📸
-*Add screenshots of the rendered pentagon with interpolated triangles here.*
+
+![Pentagon with Interpolated Triangles](images/interpolation.png)
+![Pentagon lines](images/lines.png)
+![Vertices of the Pentagon with Interpolated Triangles](images/points.png)
 
 ---
 
